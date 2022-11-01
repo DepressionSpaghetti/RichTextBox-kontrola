@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\bin\Debug\RichTextBox kontrola.exe.config
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\bin\Debug\RichTextBox kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\bin\Debug\RichTextBox kontrola.pdb
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\obj\Debug\RichTextBox kontrola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\obj\Debug\RichTextBox kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\obj\Debug\RichTextBox_kontrola.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\obj\Debug\RichTextBox_kontrola.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\obj\Debug\RichTextBox kontrola.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\obj\Debug\RichTextBox kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\obj\Debug\RichTextBox kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\RichTextBox kontrola\obj\Debug\RichTextBox kontrola.pdb
